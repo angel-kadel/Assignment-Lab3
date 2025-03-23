@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "country_name": "Indonesia",
+    "country_code": "ID",
+    "city_name": "Kadipaten",
+    "time_zone": "Asia/Jakarta",
+    "country_latitude": -6.7676998
+  },
+  {
+    "id": 2,
+    "country_name": "France",
+    "country_code": "FR",
+    "city_name": "Carcassonne",
+    "time_zone": "Europe/Paris",
+    "country_latitude": 44.346784
+  },
+  {
+    "id": 3,
+    "country_name": "Poland",
+    "country_code": "PL",
+    "city_name": "Baligród",
+    "time_zone": "Europe/Warsaw",
+    "country_latitude": 49.3357569
+  },
+  {
+    "id": 4,
+    "country_name": "Argentina",
+    "country_code": "AR",
+    "city_name": "Embalse",
+    "time_zone": "America/Argentina/Cordoba",
+    "country_latitude": -32.232355
+  },
+  {
+    "id": 5,
+    "country_name": "Kazakhstan",
+    "country_code": "KZ",
+    "city_name": "Ekibastuz",
+    "time_zone": "Asia/Almaty",
+    "country_latitude": 51.725198
+  },
+  {
+    "id": 6,
+    "country_name": "Peru",
+    "country_code": "PE",
+    "city_name": "Hualmay",
+    "time_zone": "America/Lima",
+    "country_latitude": -11.0883431
+  }
+]
