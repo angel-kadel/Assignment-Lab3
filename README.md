@@ -13,7 +13,7 @@
 </br> This file sets up a basic Express server and serves an HTML page displaying the group members' names.
 
 </br>-Runs a server on http://localhost:3000/
-</br>-convertUnit: Converts kilograms to grams.
+</br>-Displays an HTML page with group details.
 </br>-Includes a route ('/') to return a basic webpage.
 
 ## index2.js - (Serving JSON Data):
